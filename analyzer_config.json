@@ -1,0 +1,126 @@
+{
+    "database": {
+        "db_path": "market_data.db",
+        "table_prefix": "rtd_data"
+    },
+    "analysis": {
+        "polling_interval": 10.0,
+        "lookback_periods": 100,
+        "chart_interval": 300,
+        "signal_interval": 300,
+        "wyckoff": {
+            "enabled": true,
+            "accumulation_threshold": 0.6,
+            "distribution_threshold": 0.6
+        },
+        "order_flow": {
+            "enabled": true,
+            "aggression_threshold": 1.5,
+            "absorption_threshold": 2.0,
+            "exhaustion_threshold": 3.0
+        },
+        "momentum": {
+            "enabled": true,
+            "fast_period": 5,
+            "slow_period": 20,
+            "signal_threshold": 0.5
+        }
+    },
+    "signals": {
+        "min_confidence": 0.6,
+        "confirmation_required": true,
+        "risk_reward_min": 1.2
+    },
+    "assets": {
+        "winfut": {
+            "enabled": true,
+            "point_value": 0.2,
+            "tick_size": 5,
+            "trading_hours": {
+                "start": "09:00",
+                "end": "17:55"
+            }
+        },
+        "wdofut": {
+            "enabled": true,
+            "point_value": 10.0,
+            "tick_size": 0.5,
+            "trading_hours": {
+                "start": "09:00",
+                "end": "17:55"
+            }
+        }
+    },
+    "mt5_executor": {
+        "enabled": true,
+        "signal_file": "trading_signals.json"
+    },
+    "strategy_profiles": {
+        "conservador": {
+            "enabled": true,
+            "signals": {
+                "min_confidence": 0.75,
+                "confirmation_required": true,
+                "risk_reward_min": 1.8
+            },
+            "analysis": {
+                "wyckoff": {
+                    "accumulation_threshold": 0.7,
+                    "distribution_threshold": 0.7
+                },
+                "order_flow": {
+                    "aggression_threshold": 2.0,
+                    "absorption_threshold": 2.5,
+                    "exhaustion_threshold": 3.5
+                },
+                "momentum": {
+                    "signal_threshold": 0.7
+                }
+            }
+        },
+        "moderado": {
+            "enabled": true,
+            "signals": {
+                "min_confidence": 0.6,
+                "confirmation_required": true,
+                "risk_reward_min": 1.5
+            },
+            "analysis": {
+                "wyckoff": {
+                    "accumulation_threshold": 0.6,
+                    "distribution_threshold": 0.6
+                },
+                "order_flow": {
+                    "aggression_threshold": 1.5,
+                    "absorption_threshold": 2.0,
+                    "exhaustion_threshold": 3.0
+                },
+                "momentum": {
+                    "signal_threshold": 0.5
+                }
+            }
+        },
+        "agressivo": {
+            "enabled": true,
+            "signals": {
+                "min_confidence": 0.5,
+                "confirmation_required": false,
+                "risk_reward_min": 1.2
+            },
+            "analysis": {
+                "wyckoff": {
+                    "accumulation_threshold": 0.5,
+                    "distribution_threshold": 0.5
+                },
+                "order_flow": {
+                    "aggression_threshold": 1.2,
+                    "absorption_threshold": 1.5,
+                    "exhaustion_threshold": 2.5
+                },
+                "momentum": {
+                    "signal_threshold": 0.4
+                }
+            }
+        }
+    }
+}

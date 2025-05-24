@@ -1,0 +1,1522 @@
+[
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5670.5,
+        "stop_loss": 5613.795,
+        "take_profit": 5783.91,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-21T10:59:23.450425",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        }
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5670.5,
+        "stop_loss": 5613.795,
+        "take_profit": 5783.91,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-21T11:05:52.998201",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        }
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5672.5,
+        "stop_loss": 5615.775,
+        "take_profit": 5785.95,
+        "confidence": 0.8,
+        "risk_reward_ratio": 1.999999999999984,
+        "timestamp": "2025-05-21T11:06:44.367056",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        }
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5669.5,
+        "stop_loss": 5612.805,
+        "take_profit": 5782.89,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-21T11:10:42.784021",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        }
+    },
+    {
+        "asset": "winfut",
+        "type": "Compra",
+        "entry_price": 139215.0,
+        "stop_loss": 137822.85,
+        "take_profit": 141999.3,
+        "confidence": 0.9,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T12:37:49.270213",
+        "reasons": [
+            "Forte agress\u00e3o compradora"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": false
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5628.0,
+        "stop_loss": 5571.72,
+        "take_profit": 5740.56,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-22T12:38:10.044504",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": false
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5627.5,
+        "stop_loss": 5571.225,
+        "take_profit": 5740.05,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-22T12:39:20.620553",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5627.5,
+        "stop_loss": 5571.225,
+        "take_profit": 5740.05,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-22T12:39:20.640557",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5626.5,
+        "stop_loss": 5570.235,
+        "take_profit": 5739.03,
+        "confidence": 0.8,
+        "risk_reward_ratio": 1.9999999999999838,
+        "timestamp": "2025-05-22T12:43:12.935595",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "winfut",
+        "type": "Compra",
+        "entry_price": 139085.0,
+        "stop_loss": 137694.15,
+        "take_profit": 141866.7,
+        "confidence": 0.6000089874553098,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T12:43:33.108522",
+        "reasons": [
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5629.0,
+        "stop_loss": 5572.71,
+        "take_profit": 5741.58,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T12:44:23.624175",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5629.0,
+        "stop_loss": 5572.71,
+        "take_profit": 5741.58,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T12:44:23.645467",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5627.5,
+        "stop_loss": 5571.225,
+        "take_profit": 5740.05,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-22T12:48:15.914568",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "winfut",
+        "type": "Venda",
+        "entry_price": 139015.0,
+        "stop_loss": 140405.15,
+        "take_profit": 136234.7,
+        "confidence": 0.6000629388863413,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T12:49:06.378258",
+        "reasons": [
+            "Cruzamento de m\u00e9dias para baixo (Death Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5627.5,
+        "stop_loss": 5571.225,
+        "take_profit": 5740.05,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-22T12:50:27.192558",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5627.5,
+        "stop_loss": 5571.225,
+        "take_profit": 5740.05,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-22T12:50:27.213765",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5628.5,
+        "stop_loss": 5572.215,
+        "take_profit": 5741.07,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T12:53:18.913058",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5630.5,
+        "stop_loss": 5574.195,
+        "take_profit": 5743.11,
+        "confidence": 0.8,
+        "risk_reward_ratio": 1.9999999999999838,
+        "timestamp": "2025-05-22T12:57:11.258477",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5630.5,
+        "stop_loss": 5574.195,
+        "take_profit": 5743.11,
+        "confidence": 0.8,
+        "risk_reward_ratio": 1.9999999999999838,
+        "timestamp": "2025-05-22T12:57:11.281659",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5631.5,
+        "stop_loss": 5575.185,
+        "take_profit": 5744.13,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-22T12:58:21.980341",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "winfut",
+        "type": "Compra",
+        "entry_price": 139015.0,
+        "stop_loss": 137624.85,
+        "take_profit": 141795.3,
+        "confidence": 0.6000539527589642,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T12:59:32.653529",
+        "reasons": [
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5634.5,
+        "stop_loss": 5578.155,
+        "take_profit": 5747.1900000000005,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T13:03:24.926128",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5634.5,
+        "stop_loss": 5578.155,
+        "take_profit": 5747.1900000000005,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T13:03:45.110690",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5634.5,
+        "stop_loss": 5578.155,
+        "take_profit": 5747.1900000000005,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T13:03:45.133695",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "winfut",
+        "type": "Venda",
+        "entry_price": 139035.0,
+        "stop_loss": 140425.35,
+        "take_profit": 136254.3,
+        "confidence": 0.6000269699285297,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T13:05:26.106022",
+        "reasons": [
+            "Cruzamento de m\u00e9dias para baixo (Death Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5635.0,
+        "stop_loss": 5578.65,
+        "take_profit": 5747.7,
+        "confidence": 0.8,
+        "risk_reward_ratio": 1.9999999999999838,
+        "timestamp": "2025-05-22T13:08:27.883282",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5632.0,
+        "stop_loss": 5575.68,
+        "take_profit": 5744.64,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-22T13:10:18.942830",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5632.0,
+        "stop_loss": 5575.68,
+        "take_profit": 5744.64,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-22T13:10:18.966083",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "winfut",
+        "type": "Compra",
+        "entry_price": 139070.0,
+        "stop_loss": 137679.3,
+        "take_profit": 141851.4,
+        "confidence": 0.6000359544098084,
+        "risk_reward_ratio": 1.9999999999999791,
+        "timestamp": "2025-05-22T13:11:29.658896",
+        "reasons": [
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5632.0,
+        "stop_loss": 5575.68,
+        "take_profit": 5744.64,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-22T13:13:30.845068",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5628.0,
+        "stop_loss": 5571.72,
+        "take_profit": 5740.56,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-22T13:16:02.290877",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5628.0,
+        "stop_loss": 5571.72,
+        "take_profit": 5740.56,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.000000000000016,
+        "timestamp": "2025-05-22T13:16:02.313091",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5633.5,
+        "stop_loss": 5577.165,
+        "take_profit": 5746.17,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T13:18:43.925159",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "winfut",
+        "type": "Compra",
+        "entry_price": 139250.0,
+        "stop_loss": 137857.5,
+        "take_profit": 142035.0,
+        "confidence": 0.9,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T13:21:05.292114",
+        "reasons": [
+            "Forte agress\u00e3o compradora"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5633.0,
+        "stop_loss": 5576.67,
+        "take_profit": 5745.66,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T13:23:46.860384",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "winfut",
+        "type": "Compra",
+        "entry_price": 139245.0,
+        "stop_loss": 137852.55,
+        "take_profit": 142029.9,
+        "confidence": 0.6000359089635955,
+        "risk_reward_ratio": 1.9999999999999791,
+        "timestamp": "2025-05-22T13:28:39.568437",
+        "reasons": [
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5633.5,
+        "stop_loss": 5577.165,
+        "take_profit": 5746.17,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T13:28:49.712207",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5634.0,
+        "stop_loss": 5577.66,
+        "take_profit": 5746.68,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T13:30:50.870413",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5634.0,
+        "stop_loss": 5577.66,
+        "take_profit": 5746.68,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T13:30:50.894601",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5635.5,
+        "stop_loss": 5579.1449999999995,
+        "take_profit": 5748.21,
+        "confidence": 0.8,
+        "risk_reward_ratio": 1.9999999999999838,
+        "timestamp": "2025-05-22T13:33:52.690795",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "winfut",
+        "type": "Compra",
+        "entry_price": 139200.0,
+        "stop_loss": 137808.0,
+        "take_profit": 141984.0,
+        "confidence": 0.6000359208304896,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T13:37:14.577423",
+        "reasons": [
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "winfut",
+        "type": "Compra",
+        "entry_price": 139170.0,
+        "stop_loss": 137778.3,
+        "take_profit": 141953.4,
+        "confidence": 0.9,
+        "risk_reward_ratio": 1.9999999999999791,
+        "timestamp": "2025-05-22T13:38:05.014009",
+        "reasons": [
+            "Forte agress\u00e3o compradora",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "winfut",
+        "type": "Compra",
+        "entry_price": 139170.0,
+        "stop_loss": 137778.3,
+        "take_profit": 141953.4,
+        "confidence": 0.9,
+        "risk_reward_ratio": 1.9999999999999791,
+        "timestamp": "2025-05-22T13:38:05.041255",
+        "reasons": [
+            "Forte agress\u00e3o compradora",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5634.5,
+        "stop_loss": 5578.155,
+        "take_profit": 5747.1900000000005,
+        "confidence": 0.8,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-22T13:39:05.671549",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "winfut",
+        "type": "Compra",
+        "entry_price": 137785.0,
+        "stop_loss": 136407.15,
+        "take_profit": 140540.7,
+        "confidence": 0.9,
+        "risk_reward_ratio": 2.0,
+        "timestamp": "2025-05-23T11:53:31.049255",
+        "reasons": [
+            "Forte agress\u00e3o compradora"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": false
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5693.0,
+        "stop_loss": 5636.07,
+        "take_profit": 5806.86,
+        "confidence": 0.8,
+        "risk_reward_ratio": 1.999999999999984,
+        "timestamp": "2025-05-23T11:53:51.888866",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": false,
+            "order_flow": true,
+            "momentum": false
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5692.5,
+        "stop_loss": 5687.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 12.0,
+        "timestamp": "2025-05-23T12:00:46.464120",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": false
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "winfut",
+        "type": "Venda",
+        "entry_price": 138085.0,
+        "stop_loss": 138235.0,
+        "take_profit": 135960.0,
+        "confidence": 0.6000452622221578,
+        "risk_reward_ratio": 14.166666666666666,
+        "timestamp": "2025-05-23T12:00:57.330077",
+        "reasons": [
+            "Cruzamento de m\u00e9dias para baixo (Death Cross)"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5692.0,
+        "stop_loss": 5687.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 13.444444444444445,
+        "timestamp": "2025-05-23T12:01:27.677482",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5692.0,
+        "stop_loss": 5687.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 13.444444444444445,
+        "timestamp": "2025-05-23T12:01:27.716490",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada",
+            "Cruzamento de m\u00e9dias para cima (Golden Cross)"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5687.0,
+        "stop_loss": 5685.5,
+        "take_profit": 5752.5,
+        "confidence": 0.7,
+        "risk_reward_ratio": 43.666666666666664,
+        "timestamp": "2025-05-23T12:05:51.102254",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5687.5,
+        "stop_loss": 5685.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 32.5,
+        "timestamp": "2025-05-23T12:06:43.819619",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5687.5,
+        "stop_loss": 5685.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 32.5,
+        "timestamp": "2025-05-23T12:06:43.846625",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "winfut",
+        "type": "Venda",
+        "entry_price": 138200.0,
+        "stop_loss": 138270.0,
+        "take_profit": 135960.0,
+        "confidence": 0.6000904365189899,
+        "risk_reward_ratio": 32.0,
+        "timestamp": "2025-05-23T12:09:46.032491",
+        "reasons": [
+            "Cruzamento de m\u00e9dias para baixo (Death Cross)"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5685.5,
+        "stop_loss": 5684.5,
+        "take_profit": 5752.5,
+        "confidence": 0.7,
+        "risk_reward_ratio": 67.0,
+        "timestamp": "2025-05-23T12:12:05.046924",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5686.5,
+        "stop_loss": 5684.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 33.0,
+        "timestamp": "2025-05-23T12:13:54.695264",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5686.5,
+        "stop_loss": 5684.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 33.0,
+        "timestamp": "2025-05-23T12:13:54.721490",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5680.5,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 18.0,
+        "timestamp": "2025-05-23T13:39:52.514166",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": false
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5680.5,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 18.0,
+        "timestamp": "2025-05-23T13:40:12.673534",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5680.5,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 18.0,
+        "timestamp": "2025-05-23T13:40:12.702913",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5683.0,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 10.692307692307692,
+        "timestamp": "2025-05-23T13:45:05.787706",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5683.0,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 10.692307692307692,
+        "timestamp": "2025-05-23T13:46:31.562623",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5683.0,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 10.692307692307692,
+        "timestamp": "2025-05-23T13:47:01.848778",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5683.0,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 10.692307692307692,
+        "timestamp": "2025-05-23T13:47:01.873536",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5683.5,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 9.857142857142858,
+        "timestamp": "2025-05-23T13:51:34.993313",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5685.0,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 7.9411764705882355,
+        "timestamp": "2025-05-23T13:52:23.401455",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": false
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5685.5,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 7.444444444444445,
+        "timestamp": "2025-05-23T13:53:39.356561",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": false
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "winfut",
+        "type": "Venda",
+        "entry_price": 138270.0,
+        "stop_loss": 138880.0,
+        "take_profit": 135960.0,
+        "confidence": 0.6003073507450544,
+        "risk_reward_ratio": 3.7868852459016393,
+        "timestamp": "2025-05-23T13:53:50.126578",
+        "reasons": [
+            "Cruzamento de m\u00e9dias para baixo (Death Cross)"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5686.5,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 6.6,
+        "timestamp": "2025-05-23T13:54:00.237800",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5686.5,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 6.6,
+        "timestamp": "2025-05-23T13:54:00.272095",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5684.5,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 8.5,
+        "timestamp": "2025-05-23T13:55:28.512972",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": false
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5683.0,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 10.692307692307692,
+        "timestamp": "2025-05-23T13:56:09.549173",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5683.0,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 10.692307692307692,
+        "timestamp": "2025-05-23T13:56:09.576552",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    },
+    {
+        "asset": "winfut",
+        "type": "Venda",
+        "entry_price": 138360.0,
+        "stop_loss": 138880.0,
+        "take_profit": 135960.0,
+        "confidence": 0.6000361352615109,
+        "risk_reward_ratio": 4.615384615384615,
+        "timestamp": "2025-05-23T13:58:41.167864",
+        "reasons": [
+            "Cruzamento de m\u00e9dias para baixo (Death Cross)"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5686.5,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 6.6,
+        "timestamp": "2025-05-23T13:59:38.433687",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": false
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5687.0,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 6.238095238095238,
+        "timestamp": "2025-05-23T14:02:43.571395",
+        "reasons": [
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": false
+        },
+        "strategy_profile": "agressivo"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5687.0,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 6.238095238095238,
+        "timestamp": "2025-05-23T14:02:53.656444",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "conservador"
+    },
+    {
+        "asset": "wdofut",
+        "type": "Compra",
+        "entry_price": 5687.0,
+        "stop_loss": 5676.5,
+        "take_profit": 5752.5,
+        "confidence": 0.8,
+        "risk_reward_ratio": 6.238095238095238,
+        "timestamp": "2025-05-23T14:02:53.685904",
+        "reasons": [
+            "Acumula\u00e7\u00e3o pr\u00f3xima ao suporte",
+            "Absor\u00e7\u00e3o de venda detectada"
+        ],
+        "analysis": {
+            "wyckoff": true,
+            "order_flow": true,
+            "momentum": true
+        },
+        "strategy_profile": "moderado"
+    }
+]
